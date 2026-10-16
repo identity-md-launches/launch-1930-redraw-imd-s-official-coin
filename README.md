@@ -1,9 +1,9 @@
-# Neutral IMD character logo
+# IMD value-investor coin variant
 
-Output: `artifacts/image.png` — 1024 × 1024 pixels, PNG, opaque background.
+Output: `artifacts/image-v2.png` — 1024 × 1024 pixels, image/png, opaque background.
 
-Created with the image generation tool using the supplied official IMD coin image as the visual reference, then resized to the required dimensions with FFmpeg.
+Edited from the supplied neutral IMD coin template using image generation, then resized with FFmpeg Lanczos scaling to the required dimensions. The original project media record remains in MEDIA.md.
 
-Visual review: the centered shoulders-up Pepe bust retains the reference's smug expression, robe pose, dark outlines and soft shading. The robe is light sand with a pale tan underlayer; the skin is soft light green; the background is pale pastel blue. A plain thin champagne rim replaces the decorated gold frame. No stars, accessories, text, letters or watermark are visible.
+Visual review: centered shoulders-up smug Pepe with soft green skin, outlined features and soft shading, within a plain champagne rim with a dark outline. The variant adds a dark navy suit, white shirt, navy tie with small gold motifs, thin silver glasses with clear lenses, and short white hair swept back. The background is warm beige-taupe with restrained curtain-like shading. No text, letters or watermark are visible.
 
-Validation: the saved PNG passed the image structure check at exactly 1024 × 1024 pixels. No unmet visual requirements identified; this is a generated redraw rather than a pixel-identical recoloring of the reference.
+Validation: the final PNG passed the image structure check at exactly 1024 × 1024 pixels. Limitation: this is a generated edit; the face, pose and rim closely follow the template but are not pixel-identical. No other unmet visual requirements were identified during visual review. Human comparison against the supplied template is the chosen final visual approval step; structural validation alone does not certify visual fidelity.
